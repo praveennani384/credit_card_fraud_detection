@@ -33,4 +33,4 @@ The purpose of this repository is to provide an end-to-end solution for credit c
 
 For inquiries or further information, please contact:
 - Name: Praveen Kumar K
-- Email: praveennani5384@gmail.com
+- Email: praveennani384@gmail.com
